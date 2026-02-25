@@ -11,7 +11,6 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=peri-Bot&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="peri-Bot's GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peri-Bot&theme=gruvbox&hide_border=true" alt="peri-Bot's GitHub streak" height="180" />
 </p>
 
