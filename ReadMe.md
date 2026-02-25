@@ -10,9 +10,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=peri-Bot&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=peri-Bot&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=peri-Bot&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peri-Bot&theme=gruvbox)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=peri-Bot&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="peri-Bot's GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peri-Bot&theme=gruvbox&hide_border=true" alt="peri-Bot's GitHub streak" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peri-Bot&theme=gruvbox" alt="peri-Bot's Top Languages" height="280" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
