@@ -12,8 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=peri-Bot&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=peri-Bot&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=peri-Bot&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peri-Bot&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=peri-Bot&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peri-Bot&theme=gruvbox)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
