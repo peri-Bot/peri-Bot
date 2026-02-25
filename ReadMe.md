@@ -12,11 +12,9 @@
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peri-Bot&theme=gruvbox&hide_border=true" alt="peri-Bot's GitHub streak" height="180" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peri-Bot&theme=gruvbox" alt="peri-Bot's Top Languages" height="280" />
 </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
